@@ -22,22 +22,22 @@ It includes tables and figures related to battery degradation curves, modeling h
 ## Contents
 ### Tables
 
-1. **Type of equipment fragility curve data**:
+1. **EV load modeling parameters.**:
 
 <img width="1177" alt="Table1" src="https://github.com/user-attachments/assets/1f232d50-9cdf-41a5-ad2c-f6f510b78814">
 
-2. **EDS & WDS section summary**:
+2. **Hyperparameters used in the SAC model.**:
 
 <img width="1063" alt="Table2" src="https://github.com/user-attachments/assets/88780b72-5d0e-4ced-9bb6-afac8e866109">
 
 
 ### Figures
-1. **Sample Relief Package with Essential Resources**:
+1. **Normalized usable capacity and degradation capacity of BESS across scenarios (from initial capacity to End-of-Life).**:
 
 <img width="600" alt="Sample Relief Package with Essential Resources" src="https://github.com/user-attachments/assets/48948e33-e6b0-4620-ad51-a72ce85f161c">
 
 
-2. **Electricity Distribution system (EDS) - RBTS4**:
+2. **Probability densities of private and commercial EVs**:
 
 <img width="600" alt="Fig3" src="https://github.com/user-attachments/assets/e9157452-8e78-4a2c-941b-78a54b1ddd55">
 
