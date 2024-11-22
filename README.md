@@ -9,7 +9,7 @@ Authors:
 
 **Rouzbeh Haghighi**, Graduate Student Member IEEE, **Ali Hassan**, Graduate Student Member IEEE, **Van-Hai Bui**, Senior Member IEEE, **Akhtar Hussain**, Member IEEE, **Wencong Su**, Senior Member IEEE, 
 
-# Note: This paper has been submitted to 2025 IEEE Power and Energy Society General Meeting (PESGM 2025), Austin, TX.
+## Note: This paper has been submitted to 2025 IEEE Power and Energy Society General Meeting (PESGM 2025), Austin, TX.
 Paper link:
 
 ## Description
