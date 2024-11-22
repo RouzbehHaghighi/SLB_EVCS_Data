@@ -44,7 +44,3 @@ It includes tables and figures related to battery degradation curves, modeling h
 
 
 
-## License
-
-This repository is licensed under the ---- License.
-
