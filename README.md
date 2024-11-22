@@ -3,7 +3,7 @@
 #### 
 This repository contains supplementary material for the paper:
 
-**"Electricity, Water and Transportation Nexus Resilience: GIS-aware Logistics Framework Utilizing Last-Mile Delivery of Solar Relief Pack"**
+**"Deep Reinforcement Learning-Based Optimization of Second-Life Battery Utilization in Electric Vehicles Charging Stations"**
 
 Authors:
 
