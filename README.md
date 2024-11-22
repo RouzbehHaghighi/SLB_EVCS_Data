@@ -1,4 +1,4 @@
-# Infrastructure-Resilience 
+# Second-life Battery Utilization in EV Charging Station
 
 #### 
 This repository contains supplementary material for the paper:
@@ -7,11 +7,9 @@ This repository contains supplementary material for the paper:
 
 Authors:
 
-**Abbas Shahbazian**, Graduate Student Member IEEE, **Alireza Fereidunian**, Senior Member IEEE, **Saeed Manshadi**, Senior Member IEEE, **Rouzbeh Haghighi**, Graduate Student Member IEEE
+**Rouzbeh Haghighi**, Graduate Student Member IEEE, **Ali Hassan**, Graduate Student Member IEEE, **Van-Hai Bui**, Senior Member IEEE, **Akhtar Hussain**, Member IEEE, **Wencong Su**, Senior Member IEEE, 
 
 Paper link:
-
-
 
 ## Description
 
