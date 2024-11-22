@@ -24,11 +24,11 @@ It includes tables and figures related to battery degradation curves, modeling h
 
 1. **EV load modeling parameters.**:
 
-<img width="844" alt="Screenshot 2024-11-22 at 13 12 01" src="https://github.com/user-attachments/assets/8edf77f0-2662-4ec5-80f0-1f685c7e3679">
+<img width="600" alt="Screenshot 2024-11-22 at 13 12 01" src="https://github.com/user-attachments/assets/8edf77f0-2662-4ec5-80f0-1f685c7e3679">
 
 2. **Hyperparameters used in the SAC model.**:
 
-<img width="622" alt="Screenshot 2024-11-22 at 13 12 09" src="https://github.com/user-attachments/assets/3ef7367e-9b26-4d2b-aa86-1e842c993b1c">
+<img width="600" alt="Screenshot 2024-11-22 at 13 12 09" src="https://github.com/user-attachments/assets/3ef7367e-9b26-4d2b-aa86-1e842c993b1c">
 
 
 ### Figures
