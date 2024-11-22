@@ -40,7 +40,7 @@ It includes tables and figures related to battery degradation curves, modeling h
 
 2. **Probability densities of private and commercial EVs**:
 
-<img width="600" alt="Fig2" src="[https://github.com/user-attachments/assets/e9157452-8e78-4a2c-941b-78a54b1ddd55](https://github.com/user-attachments/assets/bf7476b4-01d2-4e93-a5d8-ce1ef6875e9b)">
+<img width="600" alt="Fig2" src="https://github.com/user-attachments/assets/bf7476b4-01d2-4e93-a5d8-ce1ef6875e9b">
 
 
 
