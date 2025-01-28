@@ -22,17 +22,17 @@ It includes tables and figures related to battery degradation curves, modeling h
 ## Contents
 ### Tables
 
-1. **EV load modeling parameters.**:
+1. **EV load modeling parameters**:
 
 <img width="600" alt="Screenshot 2024-11-22 at 13 12 01" src="https://github.com/user-attachments/assets/8edf77f0-2662-4ec5-80f0-1f685c7e3679">
 
-2. **Hyperparameters used in the SAC model.**:
+2. **Hyperparameters used in the SAC model**:
 
 <img width="600" alt="Screenshot 2024-11-22 at 13 12 09" src="https://github.com/user-attachments/assets/3ef7367e-9b26-4d2b-aa86-1e842c993b1c">
 
 
 ### Figures
-1. **Normalized usable capacity and degradation capacity of BESS across scenarios (from initial capacity to End-of-Life).**:
+1. **Normalized usable capacity and degradation capacity of BESS across scenarios (from initial capacity to End-of-Life)**:
 
 <img width="600" alt="Fig2" src="https://github.com/user-attachments/assets/b0c9162c-331d-4fea-841b-f591fa742a28">
 
