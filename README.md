@@ -34,7 +34,7 @@ It includes tables and figures related to battery degradation curves, modeling h
 ### Figures
 1. **Normalized usable capacity and degradation capacity of BESS across scenarios (from initial capacity to End-of-Life)**:
 
-<img width="600" alt="Fig2" src="https://github.com/user-attachments/assets/b0c9162c-331d-4fea-841b-f591fa742a28">
+<img width="600" alt="Fig2" src="https://github.com/user-attachments/assets/808b2ea4-b1d8-41f4-95b7-a7d33d4cdd9b">
 
 
 
